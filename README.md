@@ -6,7 +6,7 @@
 
 **Intern Name:** Angelina Nayak
 
-**Dataset Used:** `Customer - Sheet1.csv`(./Customer - Sheet1.csv)
+**Dataset Used (Raw Data):** [Customer - Sheet1.csv](./Customer - Sheet1.csv)
 
 ## Objective
 
