@@ -153,7 +153,8 @@ Here's a summary of the steps I have taken:
 
     print(f"Cleaned dataset saved to: {full_save_path}")
     ```
-  ![image](https://github.com/user-attachments/assets/800620aa-3af8-40d3-982e-0157ac3780fd)
+![image](https://github.com/user-attachments/assets/c8ac8c3c-b60b-49d6-880f-d5f57c8b20e7)
+
 
 
 ## Deliverables for this Task
