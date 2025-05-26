@@ -13,12 +13,12 @@ The primary goal of this task was to perform essential data cleaning and preproc
 
 ## Cleaning and Preprocessing Steps Performed
 
-I am cleaning data using Python in a Jupyter Notebook, and the dataset I am working with is `Customer - Sheet1.csv`.
+I am cleaning data using Python in a Jupyter Notebook, and the dataset I am working with is <a href="Customer - Sheet1.csv">Customer - Sheet1.csv</a>
 
 Here's a summary of the steps I have taken:
 
 1.  **Dataset Upload & Kernel Setup:**
-    * I uploaded the `Customer - Sheet1.csv` file to my Jupyter Notebook environment.
+    * I uploaded the <a href="Customer - Sheet1.csv">Customer - Sheet1.csv</a> file to my Jupyter Notebook environment.
     * I opened a new Python kernel within my Jupyter Notebook and named it `task 1 elevate labs customer data`.
 ![image](https://github.com/user-attachments/assets/f8de408e-aabc-4972-847c-89af4738b763)
 
