@@ -158,11 +158,11 @@ Here's a summary of the steps I have taken:
 
 ## Deliverables for this Task
 
-* `task 1.pdf`: The original task file given by Elevate Labs.
-* `Customer - Sheet1.csv`: The raw dataset used for this task.
-* `Cleaned Customer Data Task 1 - Elevate Labs.ipynb`: The Jupyter Notebook file containing all the Python code for data cleaning and preprocessing.
-* `Summary Task 1 - Elevate Labs.pdf`: This summary file, explaining the cleaning steps.
-* `Cleaned Customer Data Task 1 - Elevate Labs.csv`: The csv file containing the cleaned data. 
+* <a href="task 1.pdf">Task File</a>: The original task file given by Elevate Labs.
+* <a href="Customer - Sheet1.csv">Customer - Sheet1.csv</a>: The raw dataset used for this task.
+* <a href="Cleaned Customer Data Task 1 - Elevate Labs.ipynb">Jupyter Notebook</a>: The Jupyter Notebook file containing all the Python code for data cleaning and preprocessing.
+* <a href="Summary Task 1 - Elevate Labs.pdf">"Summary Task 1 - Elevate Labs.pdf</a>: This summary file, explaining the cleaning steps.
+* <a href="Cleaned Customer Data Task 1 - Elevate Labs.csv">Cleaned Customer Data Task 1 - Elevate Labs.csv</a>: The csv file containing the cleaned data. 
 
 ## Conclusion
 
