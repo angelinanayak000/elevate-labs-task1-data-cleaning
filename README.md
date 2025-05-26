@@ -6,7 +6,7 @@
 
 **Intern Name:** Angelina Nayak
 
-**Dataset Used:**  <a href="Customer - Sheet1.csv">Raw Data(26/05/2025)</a>
+**Dataset Used:**  <a href="Customer - Sheet1.csv">Customer - Sheet1.csv</a>
 ## Objective
 
 The primary goal of this task was to perform essential data cleaning and preprocessing on a raw customer dataset using Python in a Jupyter Notebook. The aim was to address common data quality issues such as missing values and duplicate entries, preparing the data for further analysis.
