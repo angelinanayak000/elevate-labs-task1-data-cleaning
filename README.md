@@ -55,7 +55,8 @@ Here's a summary of the steps I have taken:
     df.info()
     ```
     The output indicated that the `Profession` column had 1970 non-null entries and the `Season` column had 1976 non-null entries, suggesting missing values in these columns.
-    ![image](https://github.com/user-attachments/assets/647d1713-3e51-49ac-a63b-ce2bb933507a)
+   ![image](https://github.com/user-attachments/assets/4fa6d981-0d3b-471b-ac9a-f8ab6ab84691)
+
 
 5.  **Column Header Verification:**
     I executed the following code to retrieve and display a list of all column headers to check for errors:
@@ -67,7 +68,7 @@ Here's a summary of the steps I have taken:
     column_list
     ```
     The result confirmed the existing column names.
-  ![image](https://github.com/user-attachments/assets/53eaa897-1e18-4cac-876f-18cdbed02937)
+![image](https://github.com/user-attachments/assets/333d92de-0684-400f-973e-14c4b6a38b4c)
 
 
 6.  **Drop 'Profession' Column:**
