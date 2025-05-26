@@ -131,14 +131,40 @@ Here's a summary of the steps I have taken:
     The output of this command provided the count, mean, std, min, quartiles, and max for these columns.
    ![image](https://github.com/user-attachments/assets/b50183c8-1402-485c-9465-e83925ea9bd6)
 
+12. **Save Cleaned Data to CSV:**
+    After all cleaning operations were complete, I saved the final cleaned DataFrame to a CSV file on my local machine using the following code:
+    ```python
+    import os
+
+    # Define the output folder path (adjust to your actual path)
+    output_folder_path = r'C:\Users\nayak\Downloads\ELEVATE LABS\TASK 1'
+
+    # Ensure the directory exists
+    if not os.path.exists(output_folder_path):
+        os.makedirs(output_folder_path)
+
+    # Define the exact filename for the cleaned CSV (must match GitHub link)
+    cleaned_file_name = 'Cleaned Customer Data Task 1 - Elevate Labs.csv'
+    full_save_path = os.path.join(output_folder_path, cleaned_file_name)
+
+    # Save the DataFrame to CSV, without the index
+    df.to_csv(full_save_path, index=False)
+
+    print(f"Cleaned dataset saved to: {full_save_path}")
+    ```
+  ![image](https://github.com/user-attachments/assets/800620aa-3af8-40d3-982e-0157ac3780fd)
+
+
 ## Deliverables for this Task
 
 * `task 1.pdf`: The original task file given by Elevate Labs.
 * `Customer - Sheet1.csv`: The raw dataset used for this task.
 * `Cleaned Customer Data Task 1 - Elevate Labs.ipynb`: The Jupyter Notebook file containing all the Python code for data cleaning and preprocessing.
 * `Summary Task 1 - Elevate Labs.pdf`: This summary file, explaining the cleaning steps.
+* `Cleaned Customer Data Task 1 - Elevate Labs.csv`: The csv file containing the cleaned data. 
 
 ## Conclusion
 
 This task provided hands-on experience in identifying and resolving common data quality issues, utilizing Python's Pandas library for effective data manipulation. The result is a clean, structured dataset ready for further analytical insights.
-![image](https://github.com/user-attachments/assets/987b19bf-d81e-4188-becb-bfbcb5f4d113)
+![image](https://github.com/user-attachments/assets/70896f50-3c59-43a7-b9a9-11a0c4cacc3d)
+
